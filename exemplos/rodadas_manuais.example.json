@@ -1,0 +1,19 @@
+{
+  "_leia_me": "EXEMPLO com dados fictícios. Copie para rodadas_manuais.json na raiz do bot. Cada rodada do PC/2 é uma lista de [mandante, pontos, visitante, pontos], usando o nome curto (NOMES_PC) ou completo do time. Rodada PC/2 N = rodada Cartola N+18.",
+  "rodadas_pc2": {
+    "5": [
+      ["Sporting Bytes", 62.38, "Trovão", 45.08],
+      ["Dínamo Café", 95.09, "Galáticos", 37.24],
+      ["Leões do Norte", 83.59, "Estrela do Sul", 66.57],
+      ["Unidos da Várzea", 35.8, "Inter do Bairro", 80.74],
+      ["Real Pixel", 33.75, "Cachoeira", 73.36]
+    ],
+    "6": [
+      ["Galáticos", 36.99, "Sporting Bytes", 39.07],
+      ["Estrela do Sul", 72.45, "Trovão", 112.69],
+      ["Inter do Bairro", 42.38, "Dínamo Café", 52.32],
+      ["Cachoeira", 92.74, "Leões do Norte", 124.77],
+      ["Real Pixel", 87.71, "Unidos da Várzea", 69.67]
+    ]
+  }
+}

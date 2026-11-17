@@ -1,0 +1,50 @@
+# Segredos e configuração local
+.env
+.env.*
+!.env.example
+token.txt
+*.pem
+*.key
+credentials/
+credentials*.json
+liga_dados_local.py
+
+# Estado e dados da liga (podem conter IDs de contas do Cartola e do Discord)
+state.json
+state*.json
+historico_rodadas*.json
+rodadas_manuais.json
+*.corrompido*
+imports/
+backups/
+cache/
+estatisticas/
+*.sqlite
+*.sqlite3
+*.db
+*.csv
+*.xlsx
+
+# Logs e temporários
+*.log
+*.tmp
+*.temp
+*.bak
+quarantine/
+.quarantine/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
